@@ -1,0 +1,49 @@
+<div class='card'>
+    <div class='card-header'>
+      {{pageTitle}}
+      <button
+        (click) = 'read()'
+      >
+        Read
+      </button>
+      <button
+      (click) = 'update(input_id,input_name,input_email)'
+      >
+        Update
+      </button>
+
+      <td><button class = 'btn btn-primary'
+        (click) = 'delete(input_id)'>
+        Delete
+      </button>
+      </td> 
+      <td><input type='text'
+        [(ngModel)]='input_id' /></td>
+    </div>
+
+    <table>
+        <tr>
+            <th>id</th>
+            <th>name</th>
+            <th>email</th>
+        </tr>
+
+        <tr *ngFor = 'let dat of crud'>
+            <td>{{dat.id}}</td>
+            <td>{{dat.name}}</td>
+            <td>{{dat.email}}</td>
+
+        </tr>
+        <td></td>
+        <td><input type='text'
+            [(ngModel)]='input_name' /></td>
+        <td><input type='text'
+            [(ngModel)]='input_email' /></td>
+    </table>
+    <button class='btn btn-primary' 
+            (click) = 'create(input_name,input_email)'>
+            Create
+
+    </button>
+ </div>   
+

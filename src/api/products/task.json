@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "test",
+        "email": "test@testing.com",
+        "created_at": "Now",
+        "updated_at": "Later",
+        "picture": null,
+        "articles": null,
+        "productId": 231
+    },
+    {
+        "productId": 1315,
+        "productName": "Leaf Rake",
+        "productCode": "GDN-0011",
+        "releaseDate": "March 19, 2021",
+        "description": "Leaf rake with 48-inch wooden handle.",
+        "price": 19.95,
+        "starRating": 3.2,
+        "imageUrl": "assets/images/leaf_rake.png"
+    },
+    {
+        "id": 2,
+        "name": "test",
+        "email": "test@testing.com",
+        "created_at": "Now",
+        "updated_at": "Later",
+        "picture": null,
+        "articles": null
+    },
+    {
+        "id": 3,
+        "name": "test",
+        "email": "test@testing.com",
+        "created_at": "Now",
+        "updated_at": "Later",
+        "picture": null,
+        "articles": null
+    },
+    {
+        "id": 4,
+        "name": "test",
+        "email": "test@testing.com",
+        "created_at": "Now",
+        "updated_at": "Later",
+        "picture": null,
+        "articles": null
+    },
+    {
+        "id": 10,
+        "name": "test",
+        "email": "test@testing.com",
+        "created_at": "Now",
+        "updated_at": "Later",
+        "picture": null,
+        "articles": null
+    },
+    {
+        "id": 11,
+        "name": "test",
+        "email": "test@testing.com",
+        "created_at": "Now",
+        "updated_at": "Later",
+        "picture": null,
+        "articles": null
+    }
+]

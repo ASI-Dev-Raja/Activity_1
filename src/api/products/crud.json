@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "test",
+        "email": "test@testing.com",
+        "created_at": "Now",
+        "updated_at": "Later",
+        "picture": null,
+        "articles": null
+    },
+    {
+        "id": 2,
+        "name": "test",
+        "email": "test@testing.com",
+        "created_at": "Now",
+        "updated_at": "Later",
+        "picture": null,
+        "articles": null
+    },
+    {
+        "id": 3,
+        "name": "test",
+        "email": "test@testing.com",
+        "created_at": "Now",
+        "updated_at": "Later",
+        "picture": null,
+        "articles": null
+    },
+    {
+        "id": 4,
+        "name": "test",
+        "email": "test@testing.com",
+        "created_at": "Now",
+        "updated_at": "Later",
+        "picture": null,
+        "articles": null
+    },
+    {
+        "id": 10,
+        "name": "test",
+        "email": "test@testing.com",
+        "created_at": "Now",
+        "updated_at": "Later",
+        "picture": null,
+        "articles": null
+    },
+    {
+        "id": 11,
+        "name": "test",
+        "email": "test@testing.com",
+        "created_at": "Now",
+        "updated_at": "Later",
+        "picture": null,
+        "articles": null
+    }
+]
